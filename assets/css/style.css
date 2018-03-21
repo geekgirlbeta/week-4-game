@@ -86,16 +86,16 @@ body {
   }
   
   h1 {
-      font-size: 45px;
+      font-size: 35px;
   }
 
   h2 {
-      font-size: 35px;
+      font-size: 25px;
   }
   
   p {
       font-size: 22px;
-      line-height: 26px;
+      line-height: 24px;
   }
 
   .instructions {
